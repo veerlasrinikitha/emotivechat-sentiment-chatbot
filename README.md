@@ -7,6 +7,6 @@ EmotiveChat is an advanced conversational AI that combines deep learning and sen
 - Interactive Jupyter/Colab Notebook: Easy to run, modify, and experiment with.
 - Visualization & Evaluation Tools: Analyze model performance and visualize results.
 # Install Packages from requirements.txt 
-!pip install -r requirements.text
+!pip install -r requirements.txt
 
 
