@@ -6,7 +6,8 @@ EmotiveChat is an advanced conversational AI that combines deep learning and sen
 - Preprocessing Pipeline: Includes tokenization, lemmatization, and stopword removal for high-quality input.
 - Interactive Jupyter/Colab Notebook: Easy to run, modify, and experiment with.
 - Visualization & Evaluation Tools: Analyze model performance and visualize results.
-# Install Packages from requirements.txt 
+# Install Packages from requirements.txt
+```bash
 !pip install -r requirement.txt
-
+```
 
