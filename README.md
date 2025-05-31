@@ -16,4 +16,14 @@ This project uses the [GoEmotions dataset](https://www.kaggle.com/datasets/nikla
 ```bash
 !pip install -r requirement.txt
 ```
+# Usage
+1. **Train the Emotion Model**  
+   The notebook will guide you through loading data, preprocessing, and training the BERT emotion classifier.
+2. **Initialize the Chatbot**  
+   After training, MotiveChat is initialized with the trained model and tokenizer.
+3. **Demo UI**  
+   Run the provided `setup_demo_ui(chatbot)` function to interact with the chatbot in a conversational interface.
+4. **Evaluation**  
+   Use the included evaluation cells to assess NLP and HCI performance.
+
 
